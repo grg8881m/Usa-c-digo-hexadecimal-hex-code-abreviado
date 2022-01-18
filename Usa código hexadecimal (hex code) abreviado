@@ -11,13 +11,13 @@ Fuchsia (fucsia)	#F0F
     color: #F00;
   }
   .fuchsia-text {
-    color: #FOF;
+    color: #F0F;
   }
   .cyan-text {
     color: #0FF;
   }
   .green-text {
-    color: #OFO;
+    color: #0F0;
   }
 </style>
 
